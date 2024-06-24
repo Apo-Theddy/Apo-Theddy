@@ -5,7 +5,7 @@
 </center>
 
 ## Acerca de mí
-**Soy estudiante de Ingeniería de Sistemas en la Universidad Cesar Vallejo, actualmente en el 5to ciclo de la carrera. Apasionado por la programación y la tecnología, siempre estoy buscando aprender y explorar nuevas tecnologías y herramientas.**
+**Soy estudiante de Ingeniería de Sistemas en la Universidad Cesar Vallejo, actualmente en el 6to ciclo de la carrera. Apasionado por la programación y la tecnología, siempre estoy buscando aprender y explorar nuevas tecnologías y herramientas.**
 
 ## Habilidades
 <div align="center">
