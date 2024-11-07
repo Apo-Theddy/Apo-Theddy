@@ -26,13 +26,3 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Gmail">
     </a>
 </div>
-
-## Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apo-theddy&show_icons=true&theme=dark" alt="Estadísticas de GitHub" />
-</p>
-<p align="center">
-  <a href="https://github.com/apo-theddy/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apo-theddy" alt="Top Lenguajes" />
-  </a>
-</p>
