@@ -41,6 +41,7 @@ An infinite canvas of real terminals where coding agents (Claude Code, Codex, Op
 **Frontend:** React · Next.js · Tailwind CSS · Astro
 **Mobile & IoT:** Flutter · Dart · ESP32 · MQTT 5 · AWS IoT Core
 **Data & Cloud:** PostgreSQL · MongoDB · MySQL · SQL Server · Redis · AWS · Docker · Kubernetes (EKS) · GitHub Actions
+**AI Tools:** Claude Code · Codex · OpenCode · GitHub Copilot (agent-assisted development, code review and automation)
 
 ## Contact
 
