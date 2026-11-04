@@ -21,7 +21,7 @@ An infinite canvas of real terminals where coding agents (Claude Code, Codex, Op
 ## What I've built
 
 - **B2B e-commerce** (Next.js, NestJS, PostgreSQL, Stripe), taken from zero to production in 3 months
-- **5 marketplace integrations** (Mercado Libre, Shopify, WooCommerce, VTEX, Falabella) and the Izipay payment gateway on Node.js microservices (Moleculer, NATS, Redis)
+- **3 marketplace integrations** (Mercado Libre, Shopify, WooCommerce) and the Izipay payment gateway on Node.js microservices (Moleculer, NATS, Redis)
 - **Editorial platform** (NestJS, PostgreSQL) with subscription-based document access, saving the editorial team about 7 hours of manual work per week
 - **IoT platform** connecting about 40 ESP32 devices through MQTT 5, WebSockets and AWS IoT Core, with a Flutter control app
 
