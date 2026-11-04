@@ -1,6 +1,6 @@
 # Hi, I'm Juan Esquives
 
-**Full Stack Developer** with 4+ years shipping products to production end to end: payments and marketplace integrations, IoT platforms and AI agent tooling. Based in Lima, Peru. Systems Engineering student (9th term) at Universidad César Vallejo.
+**Full Stack Developer** with 3+ years shipping products to production end to end: payments and marketplace integrations, IoT platforms and AI agent tooling. Based in Lima, Peru. Systems Engineering student (9th term) at Universidad César Vallejo.
 
 Currently building integrations and microservices at **Aimo**, and my own products at **[Goruts](https://goruts.com)**.
 
